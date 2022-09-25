@@ -25,17 +25,17 @@ Saudara mahasiswa, saatnya untuk mengerjakan latihan agar Anda dapat lebih menda
 
 |__Definisi Online Learning (Tuliskan Nama Jurnalnya)__|__Analisis dan berikan penefsiran Pada Kolom di bawah ini__|
 |------------------------------------------------------|-----------------------------------------------------------|
-| Definisi I
-| Judul Artikel :
-| Sumber (Jurnal)
-| Tahun :                                              |                                                           |
+|Definisi I
+ Judul Artikel :
+ Sumber (Jurnal)
+ Tahun :                                               |                                                           |
 | Definisi II
-| Judul Artikel :
-| Sumber (Jurnal)
-| Tahun :                                              |                                                           |
+  Judul Artikel :
+  Sumber (Jurnal)
+  Tahun :                                              |                                                           |
 | Definisi III
-| Judul Artikel :
-| Sumber (Jurnal)
+  Judul Artikel :
+  Sumber (Jurnal)
 | Tahun :                                              |                                                           |
 
 
