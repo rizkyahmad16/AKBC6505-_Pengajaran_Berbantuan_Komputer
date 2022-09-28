@@ -30,9 +30,9 @@ Judul Artikel : Pembelajaran Online di Tengah Pandemi Covid-19 |Pelaksanaan pemb
 Sumber (Jurnal) Firman, Sari Rahayu Rahman
 Tahun : 02 Maret 2020
 | Definisi II
-Judul Artikel : Efektivitas Penggunaan Aplikasi Zoom Sebagai Media Pembelajaran Online Pada Mahasiswa Saat Pandemi Covid-19 Sumber (Jurnal)
-Tahun :  
-Definisi III
+Judul Artikel : Efektivitas Penggunaan Aplikasi Zoom Sebagai Media Pembelajaran Online Pada Mahasiswa Saat Pandemi Covid-19 Sumber (Jurnal) | Pembelajaran online melalui Zoom menjadikan pembelajaran lebih efektif, karena banyaknya fitur fitur pendukung saat berlangsungnya pembelajaran online di tengah pandemic covid-19.
+Tahun : Desember 2020  
+| Definisi III
 Judul Artikel :
 Sumber (Jurnal)
 Tahun :                                                                                                        
