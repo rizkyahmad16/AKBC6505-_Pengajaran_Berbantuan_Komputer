@@ -25,8 +25,8 @@ Saudara mahasiswa, saatnya untuk mengerjakan latihan agar Anda dapat lebih menda
 
 |__Definisi Online Learning (Tuliskan Nama Jurnalnya)__|__Analisis dan berikan penefsiran Pada Kolom di bawah ini__|
 |------------------------------------------------------|-----------------------------------------------------------|
-| Definisi I                                           |                                                           |
-| Judul Artikel : Pembelajaran Online di Tengah Pandemi Covid-19 |Pelaksanaan pembelajaran online memungkinkan mahasiswa untuk mengikuti perkuliahan dari rumah masing-masing. Hal ini mendorong munculnya perilaku social distancing dan meminimalisir kemungkinan munculnya kerumunan mahsiswa di kampus. Dua hal ini merupakan langkah-langkah yang direkomendasikan WHO dalam menekan penyebaran Covid- 19. Meski demikian, pembelajaran online di daerah-daerah yang tidak dijangkau jaringan internet harus diawasi karena berpotensi memunculkan kerumunan di area-area tertentu yang justru meningkatkan kemungkinan penyebaran Covid-19.                                                            |
+ Definisi I
+Judul Artikel : Pembelajaran Online di Tengah Pandemi Covid-19 |Pelaksanaan pembelajaran online memungkinkan mahasiswa untuk mengikuti perkuliahan dari rumah masing-masing. Hal ini mendorong munculnya perilaku social distancing dan meminimalisir kemungkinan munculnya kerumunan mahsiswa di kampus. Dua hal ini merupakan langkah-langkah yang direkomendasikan WHO dalam menekan penyebaran Covid- 19. Meski demikian, pembelajaran online di daerah-daerah yang tidak dijangkau jaringan internet harus diawasi karena berpotensi memunculkan kerumunan di area-area tertentu yang justru meningkatkan kemungkinan penyebaran Covid-19.
 | Sumber (Jurnal) Firman, Sari Rahayu Rahman
 | Tahun : 2020                                         |                                                           |
 | Definisi II                                          |                                                           |
