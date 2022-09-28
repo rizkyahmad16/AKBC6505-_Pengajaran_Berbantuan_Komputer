@@ -27,14 +27,14 @@ Saudara mahasiswa, saatnya untuk mengerjakan latihan agar Anda dapat lebih menda
 |------------------------------------------------------|-----------------------------------------------------------|
 | Definisi I
 Judul Artikel : Pembelajaran Online di Tengah Pandemi Covid-19 |Pelaksanaan pembelajaran online memungkinkan mahasiswa untuk mengikuti perkuliahan dari rumah masing-masing. Hal ini mendorong munculnya perilaku social distancing dan meminimalisir kemungkinan munculnya kerumunan mahsiswa di kampus. Dua hal ini merupakan langkah-langkah yang direkomendasikan WHO dalam menekan penyebaran Covid- 19. Meski demikian, pembelajaran online di daerah-daerah yang tidak dijangkau jaringan internet harus diawasi karena berpotensi memunculkan kerumunan di area-area tertentu yang justru meningkatkan kemungkinan penyebaran Covid-19.
-Sumber (Jurnal) Firman, Sari Rahayu Rahman
+Sumber (Jurnal) : Firman, Sari Rahayu Rahman
 Tahun : 02 Maret 2020
 | Definisi II
 Judul Artikel : Efektivitas Penggunaan Aplikasi Zoom Sebagai Media Pembelajaran Online Pada Mahasiswa Saat Pandemi Covid-19 Sumber (Jurnal) | Pembelajaran online melalui Zoom menjadikan pembelajaran lebih efektif, karena banyaknya fitur fitur pendukung saat berlangsungnya pembelajaran online di tengah pandemic covid-19.
 Tahun : Desember 2020  
 | Definisi III
-Judul Artikel :
-Sumber (Jurnal)
-Tahun :                                                                                                        
+Judul Artikel : Analisis Deskriptif Hasil Belajar Pembelajaran Tatap Muka Dan Pemebelajaran Daring Menurut Gaya Belajar Manusia | Hasil belajar mahasiswa yang memiliki gaya belajar auditori dan visual yang dibelajarkan dengan model pembelajaran daring memiliki nilai rata-rata hasil belajar yang lebih baik dari mahasiswa yang dibelajarkan dengan model pembelajaran tatap muka. Tidak ada perbedaan nilai ratarata hasil belajar mahasiswa yang memiliki gaya belajar kinestetik antara kelompok mahasiswa yang dibelajarkan dengan pembelajaran tatap muka dengan kelompok mahasiswa yang dibelajarkan dengan pembelajaran daring.
+Sumber (Jurnal) : Anthony Anggrawan
+Tahun :  (Mei) 2019                                                                                                        
 
 
