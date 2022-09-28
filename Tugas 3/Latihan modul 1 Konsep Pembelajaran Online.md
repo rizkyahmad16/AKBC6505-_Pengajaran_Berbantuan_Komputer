@@ -50,6 +50,11 @@ __Definisi III    :__ Perlu ada pernilitian lebih lanjut terhadap penelitian pem
 ### __Latihan 3__
 Menurut Hernawan dkk, (2006) format pendidikan pada abad 21, yaitu:
 
-| Aspek dalam 21st Centry Skill 
-yang relevan dengan Online Learning | Penafsiran (Analisis Anda) |
+| __Aspek dalam 21st Centry Skill  yang relevan dengan Online Learning__ | __Penafsiran (Analisis Anda)__ |
 |-----------------------------------|----------------------------|
+| Accalerated Learning              |Kemapuan untuk menyerap informasi baru secara cepat dan dapat mempertahannya.|
+| Society Technology Science (STS)  | Pendekatan ini digunakan untuk siswa agar dapat mengintegrasikan pembelajaran dengan permasalahan dalam ilmu pengetahuan, teknologi dan masyarakat.|
+| Cooperative Learning              | Pembelajaran dengan menggunakan kelompok kecil, dimana siswa diharapkan bias bekerja sama dan bertanggungjawab atas tugasnya.|
+| Quantum learning                  | Pembelajaran yang metodenya disesuaikan dengan cara kerja otak manusia.|
+| Pembelajaran jarak jauh (Open and Distance Learning) | Pembelajaran yang dilakukan tanpa guru dan murid bertatap langsung.|
+| Cyber (E-Learning) Cyber atau electronic learning | Pembelajaran menggunakan teknologi komputer atau internet. |
