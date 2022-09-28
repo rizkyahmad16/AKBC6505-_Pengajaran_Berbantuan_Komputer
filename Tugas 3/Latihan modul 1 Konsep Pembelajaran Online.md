@@ -26,7 +26,7 @@ Saudara mahasiswa, saatnya untuk mengerjakan latihan agar Anda dapat lebih menda
 |__Definisi Online Learning (Tuliskan Nama Jurnalnya)__|__Analisis dan berikan penefsiran Pada Kolom di bawah ini__|
 |------------------------------------------------------|-----------------------------------------------------------|
 | Definisi I
-Judul Artikel : Pembelajaran Online di Tengah Pandemi Covid-19 |Pelaksanaan pembelajaran online memungkinkan mahasiswa untuk mengikuti perkuliahan dari rumah masing-masing. Hal ini mendorong munculnya perilaku social distancing dan meminimalisir kemungkinan munculnya kerumunan mahsiswa di kampus. Dua hal ini merupakan langkah-langkah yang direkomendasikan WHO dalam menekan penyebaran Covid- 19. Meski demikian, pembelajaran online di daerah-daerah yang tidak dijangkau jaringan internet harus diawasi karena berpotensi memunculkan kerumunan di area-area tertentu yang justru meningkatkan kemungkinan penyebaran Covid-19.
+Judul Artikel : Pembelajaran Online di Tengah Pandemi Covid-19 | Pelaksanaan pembelajaran online memungkinkan mahasiswa untuk mengikuti perkuliahan dari rumah masing-masing. Hal ini mendorong munculnya perilaku social distancing dan meminimalisir kemungkinan munculnya kerumunan mahsiswa di kampus. Dua hal ini merupakan langkah-langkah yang direkomendasikan WHO dalam menekan penyebaran Covid- 19. Meski demikian, pembelajaran online di daerah-daerah yang tidak dijangkau jaringan internet harus diawasi karena berpotensi memunculkan kerumunan di area-area tertentu yang justru meningkatkan kemungkinan penyebaran Covid-19.
 Sumber (Jurnal) : Firman, Sari Rahayu Rahman
 Tahun : 02 Maret 2020
 | Definisi II
@@ -38,8 +38,10 @@ Sumber (Jurnal) : Anthony Anggrawan
 Tahun :  (Mei) 2019
 
 ### __Dari Ketiga Definisi Online Learning di atas, apa kesimpulan Anda tentang Online Learning tersebut?__
-Definisi I      :
-Definisi II     :
-Definisi III    :
+Definisi I      : Pembelajaran online mendapat tanggapan yang sangat baik dari mahasiswa terutama mengenai fleksibilitas pelaksanaannya. Metode pembelajaran ini juga mampu memicu munculnya kemandirian belajar dan mendorong mahasiswa untuk lebih aktif dalam perkuliahan. Sayangnya, interaksi dalam pembelajaran online memiliki batasan sehingga tidak memungkinkan dosen untuk memantau secara langsung aktivitas mahasiswa selama perkuliahan. Mahasiswa juga kesulitan memahami bahan ajar yang disampaiakan secara online. Komunikasi antara dosen dengan mahasiswa yang terbatas melalui applikasi pesan instan ataupun melalui kelas-kelas virtual dirasa tidak cukup oleh mahasiswa.
+
+Definisi II     : Berdasarkan penelitian dapat disimpulkan Pembelajaran secara online mendapat tanggapan sangat baik dar mahasiswa karena pembelajaran yang lebih fleksibel saat menggunakanya. Dengan adanya pembelajaran online menjadikan mahasiswa lebih mandiri dan mendorong mahasiswa untuk lebih aktif dalam perkulihan. Hanya saja terdapat beberapa hal yang perlu diperhatikan, salah satunya adalah ketersedian paket data internet yang biayanya dikeluarkan secara lebih ekstra oleh mahasiswa saat pembelajaran online.
+
+Definisi III    : Perlu ada pernilitian lebih lanjut terhadap penelitian pembelajaran tatap muka maupun pembelajaran daring pada mata kuliah yang sama maupun mata kuliah yang lainnya, dan juga dengan model pembelajaran lain seperti pembelajaran tatap muka maupun daring berbasis masalah, kolaboratif, dan model lainnya.
 
 
