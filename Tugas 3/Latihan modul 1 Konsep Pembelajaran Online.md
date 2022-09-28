@@ -35,6 +35,11 @@ Tahun : Desember 2020
 | Definisi III
 Judul Artikel : Analisis Deskriptif Hasil Belajar Pembelajaran Tatap Muka Dan Pemebelajaran Daring Menurut Gaya Belajar Manusia | Hasil belajar mahasiswa yang memiliki gaya belajar auditori dan visual yang dibelajarkan dengan model pembelajaran daring memiliki nilai rata-rata hasil belajar yang lebih baik dari mahasiswa yang dibelajarkan dengan model pembelajaran tatap muka. Tidak ada perbedaan nilai ratarata hasil belajar mahasiswa yang memiliki gaya belajar kinestetik antara kelompok mahasiswa yang dibelajarkan dengan pembelajaran tatap muka dengan kelompok mahasiswa yang dibelajarkan dengan pembelajaran daring.
 Sumber (Jurnal) : Anthony Anggrawan
-Tahun :  (Mei) 2019                                                                                                        
+Tahun :  (Mei) 2019
+
+### __Dari Ketiga Definisi Online Learning di atas, apa kesimpulan Anda tentang Online Learning tersebut?__
+Definisi I      :
+Definisi II     :
+Definisi III    :
 
 
