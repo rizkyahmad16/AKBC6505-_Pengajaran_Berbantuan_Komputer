@@ -45,3 +45,11 @@ __Definisi II     :__ Berdasarkan penelitian dapat disimpulkan Pembelajaran seca
 __Definisi III    :__ Perlu ada pernilitian lebih lanjut terhadap penelitian pembelajaran tatap muka maupun pembelajaran daring pada mata kuliah yang sama maupun mata kuliah yang lainnya, dan juga dengan model pembelajaran lain seperti pembelajaran tatap muka maupun daring berbasis masalah, kolaboratif, dan model lainnya.
 
 
+# __Kegiatan Belajar 3 Ciri-ciri Pembelajaran Online__
+
+### __Latihan 3__
+Menurut Hernawan dkk, (2006) format pendidikan pada abad 21, yaitu:
+
+| Aspek dalam 21st Centry Skill 
+yang relevan dengan Online Learning | Penafsiran (Analisis Anda) |
+|-----------------------------------|----------------------------|
