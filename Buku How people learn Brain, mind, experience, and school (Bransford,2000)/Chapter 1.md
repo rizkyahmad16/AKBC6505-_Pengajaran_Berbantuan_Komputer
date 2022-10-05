@@ -1,8 +1,9 @@
 # __1__
 # __Learning:__
-> # __*Sedang belajar*__
+> ## __*Sedang belajar*__
 
 # __From Speculation to Science__
+> ## __*Dari Spekulasi ke Sains*__
 
 The essence of matter, the origins of the universe, the nature of the human mind—these are the profound questions that have engaged thinkers through the centuries. Until quite recently, understanding the mind—and the thinking and learning that the mind makes possible—has remained an elusive quest, in part because of a lack of powerful research tools. Today, the world is in the midst of an extraordinary outpouring of scientific work on the mind and brain, on the processes of thinking and learning, on the neural processes that occur during thought and learning, and on the development of competence.
 
@@ -12,3 +13,8 @@ The revolution in the study of the mind that has occurred in the last three or f
 
 > *Revolusi dalam studi tentang pikiran yang terjadi dalam tiga atau empat dekade terakhir memiliki implikasi penting bagi pendidikan. Seperti yang kami ilustrasikan, teori pembelajaran baru menjadi fokus yang mengarah pada pendekatan yang sangat berbeda untuk desain kurikulum, pengajaran, dan penilaian daripada yang sering ditemukan di sekolah saat ini. Sama pentingnya, pertumbuhan penyelidikan interdisipliner dan jenis baru kolaborasi ilmiah telah mulai membuat jalan dari penelitian dasar ke praktik pendidikan agak lebih terlihat, jika belum mudah untuk dilalui. Tiga puluh tahun yang lalu, para pendidik memberikan sedikit perhatian pada karya ilmuwan kognitif, dan para peneliti di bidang ilmu kognitif yang baru lahir bekerja jauh dari ruang kelas. Saat ini, peneliti kognitif menghabiskan lebih banyak waktu bekerja dengan guru, menguji dan menyempurnakan teori mereka di ruang kelas nyata di mana mereka dapat melihat bagaimana pengaturan yang berbeda dan interaksi kelas mempengaruhi penerapan teori mereka.*
 
+What is perhaps currently most striking is the variety of research approaches and techniques that have been developed and ways in which evidence from many different branches of science are beginning to converge. The story we can now tell about learning is far richer than ever before, and it promises to evolve dramatically in the next generation. For example:
+
+> *Apa yang mungkin paling mencolok saat ini adalah berbagai pendekatan dan teknik penelitian yang telah dikembangkan dan cara-cara di mana bukti dari berbagai cabang ilmu pengetahuan mulai bertemu. Kisah yang sekarang dapat kita ceritakan tentang pembelajaran jauh lebih kaya daripada sebelumnya, dan menjanjikan untuk berkembang secara dramatis di generasi berikutnya. Sebagai contoh:*
+
++ Research from cognitive psychology has increased understanding of the nature of competent performance and the principles of knowledge organization that underlie people’s abilities to solve problems in a wide variety of areas, including mathematics, science, literature, social studies, and history.
