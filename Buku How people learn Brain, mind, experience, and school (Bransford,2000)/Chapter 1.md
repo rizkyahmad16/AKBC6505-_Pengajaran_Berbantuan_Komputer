@@ -18,3 +18,5 @@ What is perhaps currently most striking is the variety of research approaches an
 > *Apa yang mungkin paling mencolok saat ini adalah berbagai pendekatan dan teknik penelitian yang telah dikembangkan dan cara-cara di mana bukti dari berbagai cabang ilmu pengetahuan mulai bertemu. Kisah yang sekarang dapat kita ceritakan tentang pembelajaran jauh lebih kaya daripada sebelumnya, dan menjanjikan untuk berkembang secara dramatis di generasi berikutnya. Sebagai contoh:*
 
 + Research from cognitive psychology has increased understanding of the nature of competent performance and the principles of knowledge organization that underlie people’s abilities to solve problems in a wide variety of areas, including mathematics, science, literature, social studies, and history.
+
++ > * Penelitian dari psikologi kognitif telah meningkatkan pemahaman tentang sifat kinerja yang kompeten dan prinsip-prinsip organisasi pengetahuan yang mendasari kemampuan orang untuk memecahkan masalah di berbagai bidang, termasuk matematika, sains, sastra, studi sosial, dan sejarah.*
