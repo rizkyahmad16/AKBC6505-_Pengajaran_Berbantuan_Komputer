@@ -56,3 +56,33 @@ In the early part of the twentieth century, education focused on the acquisition
 Above all, information and knowledge are growing at a far more rapid rate than ever before in the history of humankind. As Nobel laureate Herbert Simon wisely stated, the meaning of “knowing” has shifted from being able to remember and repeat information to being able to find and use it (Simon, 1996). More than ever, the sheer magnitude of human knowledge renders its coverage by education an impossibility; rather, the goal of education is better conceived as helping students develop the intellectual tools and learning strategies needed to acquire the knowledge that allows people to think productively about history, science and technology, social phenomena, mathematics, and the arts. Fundamental understanding about subjects, including how to frame and ask meaningful questions about various subject areas, contributes to individuals’ more basic understanding of principles of learning that can assist them in becoming self-sustaining, lifelong learners.
 
 > *Di atas segalanya, informasi dan pengetahuan berkembang jauh lebih cepat daripada sebelumnya dalam sejarah umat manusia. Seperti yang dinyatakan dengan bijak oleh peraih Nobel Herbert Simon, arti "mengetahui" telah bergeser dari mampu mengingat dan mengulang informasi menjadi mampu menemukan dan menggunakannya (Simon, 1996). Lebih dari sebelumnya, besarnya pengetahuan manusia membuat cakupannya oleh pendidikan menjadi mustahil; Sebaliknya, tujuan pendidikan lebih baik dipahami sebagai membantu siswa mengembangkan alat intelektual dan strategi pembelajaran yang diperlukan untuk memperoleh pengetahuan yang memungkinkan orang untuk berpikir produktif tentang sejarah, ilmu pengetahuan dan teknologi, fenomena sosial, matematika, dan seni. Pemahaman mendasar tentang mata pelajaran, termasuk bagaimana membingkai dan mengajukan pertanyaan yang bermakna tentang berbagai bidang studi,*
+
+## __FOCUS: PEOPLE, SCHOOLS, AND THE POTENTIAL TO LEARN__
+> ## __*fokus: orang, sekolah, dan potensi untuk belajar*__
+
+The scientific literatures on cognition, learning, development, culture, and brain are voluminous. Three organizing decisions, made fairly early in the work of the committee, provided the framework for our study and are reflected in the contents of this book.
+
+> *Literatur ilmiah tentang kognisi, pembelajaran, pengembangan, budaya, dan otak sangat banyak. Tiga keputusan pengorganisasian, yang dibuat cukup awal dalam pekerjaan komite, memberikan kerangka kerja untuk penelitian kami dan tercermin dalam isi buku ini.*
+
++ First, we focus primarily on research on human learning (though the study of animal learning provides important collateral information), including new developments from neuroscience.
+
+> + *Pertama, kami fokus terutama pada penelitian tentang pembelajaran manusia (meskipun studi tentang pembelajaran hewan memberikan informasi tambahan yang penting), termasuk perkembangan baru dari ilmu saraf.*
+
++ Second, we focus especially on learning research that has implications for the design of formal instructional environments, primarily preschools, kindergarten through high schools (K-12), and colleges.
+
+> + *Kedua, kami fokus terutama pada penelitian pembelajaran yang memiliki implikasi tions untuk desain lingkungan instruksional formal, terutama prasekolah, taman kanak-kanak sampai sekolah tinggi (K-12), dan perguruan tinggi.*
+
++ Third, and related to the second point, we focus on research that helps explore the possibility of helping all individuals achieve their fullest potential.
+
+> + *Ketiga, dan terkait dengan poin kedua, kami fokus pada penelitian yang membantu mengeksplorasi kemungkinan membantu semua individu mencapai potensi penuh mereka.*
+
+New ideas about ways to facilitate learning—and about who is most capable of learning—can powerfully affect the quality of people’s lives. At different points in history, scholars have worried that formal educational environments have been better at selecting talent than developing it (see, e.g., Bloom, 1964). Many people who had difficulty in school might have prospered if the new ideas about effective instructional practices had been available. Furthermore, given new instructional practices, even those who did well in traditional educational environments might have developed skills, knowledge, and attitudes that would have significantly enhanced their achievements.
+
+> *Ide-ide baru tentang cara-cara memfasilitasi pembelajaran—dan tentang siapa yang paling mampu belajar—dapat sangat memengaruhi kualitas hidup orang. Pada titik yang berbeda dalam sejarah, para sarjana khawatir bahwa lingkungan pendidikan formal lebih baik dalam memilih bakat daripada mengembangkannya (lihat, misalnya, Bloom, 1964). Banyak orang yang mengalami kesulitan di sekolah mungkin menjadi makmur jika ide-ide baru tentang praktik pembelajaran yang efektif telah tersedia. Selanjutnya, mengingat praktik instruksional baru, bahkan mereka yang berhasil dalam lingkungan pendidikan tradisional mungkin telah mengembangkan keterampilan, pengetahuan, dan sikap yang akan secara signifikan meningkatkan prestasi mereka.*
+
+Learning research suggests that there are new ways to introduce students to traditional subjects, such as mathematics, science, history and literature, and that these new approaches make it possible for the majority of individuals to develop a deep understanding of important subject matter. This committee is especially interested in theories and data that are relevant to the development of new ways to introduce students to such traditional subjects as mathematics, science, history, and literature. There is hope that new approaches can make it possible for a majority of individuals to develop a moderate to deep understanding of important subjects.
+
+> *Penelitian pembelajaran menunjukkan bahwa ada cara baru untuk memperkenalkan siswa pada mata pelajaran tradisional, seperti matematika, sains, sejarah dan sastra, dan bahwa pendekatan baru ini memungkinkan sebagian besar individu untuk mengembangkan pemahaman mendalam tentang materi pelajaran yang penting. Komite ini secara khusus tertarik pada teori dan data yang relevan dengan pengembangan cara baru untuk memperkenalkan siswa pada mata pelajaran tradisional seperti matematika, sains, sejarah, dan sastra. Ada harapan bahwa pendekatan baru dapat memungkinkan sebagian besar individu untuk mengembangkan pemahaman yang moderat hingga mendalam tentang mata pelajaran penting.*
+
+## __DEVELOPMENT OF THE SCIENCE OF LEARNING__
+> ## __*Pengembangan Ilmu Pembelajaran*__
