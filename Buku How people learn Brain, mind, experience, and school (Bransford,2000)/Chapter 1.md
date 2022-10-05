@@ -1,6 +1,6 @@
 # __1__
 # __Learning:__
-# > __*Sedang belajar*__
+> # __*Sedang belajar*__
 
 # __From Speculation to Science__
 
