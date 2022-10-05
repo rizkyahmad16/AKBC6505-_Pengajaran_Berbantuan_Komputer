@@ -1,5 +1,6 @@
 # __1__
 # __Learning:__
+# __> *Sedang belajar*__
 
 # __From Speculation to Science__
 
@@ -10,3 +11,4 @@ The essence of matter, the origins of the universe, the nature of the human mind
 The revolution in the study of the mind that has occurred in the last three or four decades has important implications for education. As we illustrate, a new theory of learning is coming into focus that leads to very different approaches to the design of curriculum, teaching, and assessment than those often found in schools today. Equally important, the growth of interdisciplinary inquiries and new kinds of scientific collaborations have begun to make the path from basic research to educational practice somewhat more visible, if not yet easy to travel. Thirty years ago, educators paid little attention to the work of cognitive scientists, and researchers in the nascent field of cognitive science worked far removed from classrooms. Today, cognitive researchers are spending more time working with teachers, testing and refining their theories in real classrooms where they can see how different settings and classroom interactions influence applications of their theories.
 
 > *Revolusi dalam studi tentang pikiran yang terjadi dalam tiga atau empat dekade terakhir memiliki implikasi penting bagi pendidikan. Seperti yang kami ilustrasikan, teori pembelajaran baru menjadi fokus yang mengarah pada pendekatan yang sangat berbeda untuk desain kurikulum, pengajaran, dan penilaian daripada yang sering ditemukan di sekolah saat ini. Sama pentingnya, pertumbuhan penyelidikan interdisipliner dan jenis baru kolaborasi ilmiah telah mulai membuat jalan dari penelitian dasar ke praktik pendidikan agak lebih terlihat, jika belum mudah untuk dilalui. Tiga puluh tahun yang lalu, para pendidik memberikan sedikit perhatian pada karya ilmuwan kognitif, dan para peneliti di bidang ilmu kognitif yang baru lahir bekerja jauh dari ruang kelas. Saat ini, peneliti kognitif menghabiskan lebih banyak waktu bekerja dengan guru, menguji dan menyempurnakan teori mereka di ruang kelas nyata di mana mereka dapat melihat bagaimana pengaturan yang berbeda dan interaksi kelas mempengaruhi penerapan teori mereka.*
+
