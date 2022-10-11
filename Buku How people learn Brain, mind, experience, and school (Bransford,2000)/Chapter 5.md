@@ -22,7 +22,9 @@ This chapter reviews key findings from neuroscience and cognitive science that a
 
 > _Bab ini mengulas temuan-temuan kunci dari ilmu saraf dan ilmu kognitif yang memperluas pengetahuan tentang mekanisme pembelajaran manusia. Tiga poin utama memandu diskusi dalam bab ini:_
 > _1.	Belajar mengubah struktur fisik otak._
+
 > _2.	Perubahan struktural ini mengubah organisasi fungsional otak; dengan kata lain, belajar mengatur dan mereorganisasi otak._
+
 > _3.	Bagian otak yang berbeda mungkin siap untuk belajar pada waktu yang berbeda._
 
 
