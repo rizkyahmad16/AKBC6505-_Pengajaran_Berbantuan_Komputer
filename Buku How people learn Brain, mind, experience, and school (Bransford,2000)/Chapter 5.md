@@ -21,10 +21,9 @@ This chapter reviews key findings from neuroscience and cognitive science that a
 3.	Different parts of the brain may be ready to learn at different times.
 
 > _Bab ini mengulas temuan-temuan kunci dari ilmu saraf dan ilmu kognitif yang memperluas pengetahuan tentang mekanisme pembelajaran manusia. Tiga poin utama memandu diskusi dalam bab ini:_
-
-_1.	Belajar mengubah struktur fisik otak._
-_2.	Perubahan struktural ini mengubah organisasi fungsional otak; dengan kata lain, belajar mengatur dan mereorganisasi otak._
-_3.	Bagian otak yang berbeda mungkin siap untuk belajar pada waktu yang berbeda._
+> _1.	Belajar mengubah struktur fisik otak._
+> _2.	Perubahan struktural ini mengubah organisasi fungsional otak; dengan kata lain, belajar mengatur dan mereorganisasi otak._
+> _3.	Bagian otak yang berbeda mungkin siap untuk belajar pada waktu yang berbeda._
 
 
 We first explain some basic concepts of neuroscience and new knowledge about brain development, including the effects of instruction and learning on the brain. We then look at language in learning as an example of the mind-brain connection. Lastly, we examine research on how memory is represented in the brain and its implications for learning.
